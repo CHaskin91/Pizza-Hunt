@@ -9,3 +9,8 @@
 - Built a working front end to create a new pizza.
 
 ## Lesson 2
+
+- Create a Comment model using Mongoose.
+- Associate the Pizza and Comment models.
+- Create CRUD functionality for creating a pizza.
+- Get all pizza data from the API to display in the application's front end.
