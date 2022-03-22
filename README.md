@@ -14,3 +14,10 @@
 - Associate the Pizza and Comment models.
 - Create CRUD functionality for creating a pizza.
 - Get all pizza data from the API to display in the application's front end.
+
+## Lesson 3
+
+- Created a view for a single pizza's discussion.
+- Created Subdocuments in Mongoose.
+- Created Custom ID models in Mongoose.
+- Created Virtuals to extend the functionality of the models.
