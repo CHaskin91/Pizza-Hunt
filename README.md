@@ -21,3 +21,14 @@
 - Created Subdocuments in Mongoose.
 - Created Custom ID models in Mongoose.
 - Created Virtuals to extend the functionality of the models.
+
+## Lesson 4
+
+- Added IndexedDB to locally save the created pizzas.
+
+## Lesson 5
+
+- Added validation to the Pizza model.
+- Added validation to the Reply model.
+- Deployed the application to Heroku.
+- Used MongoDB Atlas to host the database remotely.
