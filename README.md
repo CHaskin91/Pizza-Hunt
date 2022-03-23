@@ -1,5 +1,8 @@
 # Pizza-Hunt
 
+Pizza Hunt lets users connect with each other based on their love of pizza! Users can share and discuss their dream pizza-topping combinations.
+[Check out Pizza Hunt now!](https://rocky-wave-88206.herokuapp.com/)
+
 ## Lesson 1
 
 - Integrated the API code with the client's existing codebase.
